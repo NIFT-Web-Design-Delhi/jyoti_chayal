@@ -1,3 +1,3 @@
 # jyoti_chayal
 
-[[JURY ASSIGNMENT]](https://nift-web-design-delhi.github.io/jyoti_chayal/Assignment_3)
+[[jury assignment]](https://nift-web-design-delhi.github.io/Muskan_Gupta/Assignment_3/gulhbhar.html)
